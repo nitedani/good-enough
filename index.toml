@@ -213,13 +213,13 @@ hash = "9ed342e0d8a2200d2a5c01826dba51b70433ad2c0e998fda893b5fa2911c2516"
 metafile = true
 
 [[files]]
+file = "shaderpacks/photon.toml"
+hash = "174c6a51b9afa27db785ddfa7dc48902019bbd92d64f74a28f453504c44e8cf1"
+
+[[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
 hash = "8a98b97853c1acd591c51aecdd3010481f894b651a29af8262b07b30be60d4d7"
 metafile = true
-
-[[files]]
-file = "shaderpacks/solas-shader.pw - Copy.toml"
-hash = "174c6a51b9afa27db785ddfa7dc48902019bbd92d64f74a28f453504c44e8cf1"
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
