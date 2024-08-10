@@ -1,0 +1,13 @@
+name = "StutterFix"
+filename = "stutterfix-mc1.21-0.2.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FimwF33K/versions/rZZBac5a/stutterfix-mc1.21-0.2.3.jar"
+hash-format = "sha1"
+hash = "0389a31b1ea037ac9bc96214f76d4365432e3be7"
+
+[update]
+[update.modrinth]
+mod-id = "FimwF33K"
+version = "rZZBac5a"

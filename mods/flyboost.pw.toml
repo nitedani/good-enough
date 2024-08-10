@@ -1,0 +1,13 @@
+name = "FlyBoost"
+filename = "fly-boost-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l8OZerSO/versions/m533YLYx/fly-boost-1.0.0.jar"
+hash-format = "sha1"
+hash = "9dfc91f137b9b7ef8257704f0eb02485c6d1b10b"
+
+[update]
+[update.modrinth]
+mod-id = "l8OZerSO"
+version = "m533YLYx"

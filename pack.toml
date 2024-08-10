@@ -1,0 +1,13 @@
+name = "good-enough"
+author = "nitedani"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "de26ac67260125ab71517cfedc8f3ad2d4b0fba1cd711d50e8386c546aa124ae"
+
+[versions]
+fabric = "0.16.0"
+minecraft = "1.21"
