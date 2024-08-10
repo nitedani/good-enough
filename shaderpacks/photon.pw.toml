@@ -1,8 +1,8 @@
 name = "Photon Shader"
-filename = "photon-main.zip"
+filename = "Photon Shader.zip"
 side = "client"
 
 [download]
-url = "https://github.com/sixthsurge/photon/archive/refs/heads/main.zip"
+url = "https://github.com/sixthsurge/photon/archive/2d6be064211a536375e3f0dd4adfaad7595957a6.zip"
 hash-format = "sha1"
-hash = "8dc120231db9c381fd0bf5b5f5ae67207291cc84"
+hash = "e4f074572becbcd37ad6395c15c4ccf6f2534dba"
