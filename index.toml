@@ -213,8 +213,9 @@ hash = "9ed342e0d8a2200d2a5c01826dba51b70433ad2c0e998fda893b5fa2911c2516"
 metafile = true
 
 [[files]]
-file = "shaderpacks/photon.toml"
+file = "shaderpacks/photon.pw.toml"
 hash = "174c6a51b9afa27db785ddfa7dc48902019bbd92d64f74a28f453504c44e8cf1"
+metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
