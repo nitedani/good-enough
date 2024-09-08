@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-utils.pw.toml"
-hash = "3cc743801fbf570118646f887ba046f6bd8968527328a9015555bd1253481f6b"
+hash = "04216720eaddb608269bac67bcae55eb7751d5ce6120ef0f7384cc8e5dde4e4a"
 metafile = true
 
 [[files]]
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "218786ae392251f942fd7f76fa881787264748d97c986ba0cae95d2087e44460"
+hash = "7c4410424962acf607a4b2ff1e522553bdf742d6025ad077772d4d9ec7ef5e50"
 metafile = true
 
 [[files]]
@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8078e4d71da6ead36a6134ba3f5f0b90b53ba6466a176986a644bee3f6c2da5c"
+hash = "444ec76f51b9713378aa4c900ca583a7df0888f89e76b76ae8cf5293d9cb51ab"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3f8f7b594419ea4fefa330c82fee1be6d904390b3a6bb40e52aeb8e7b9009c82"
+hash = "ae42dc97752bf2031b0fb77994ab04e51e5569a637f2f9ee6a98937053b0d290"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c7c101be06ad509eb7d2d2459419524b6814152546d59e0f7608b22a0d066ad9"
+hash = "601b4cdbd392d5abae9144ea83c4b93a362f33b60411a32059feeb73d12fe029"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5607c21ed488c02fec5ad17424d184cb7c1eb38536ed494184edc99ebd0b6a0e"
+hash = "057a44637ba9a921d1c773bc1e6d561692501b1b620e6d5e50aef84c961a44ea"
 metafile = true
 
 [[files]]
