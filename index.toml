@@ -143,13 +143,18 @@ hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
 metafile = true
 
 [[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "3f57434db035943d16737be306eaab1be3292b2986c88a5abc4173a32f51053b"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b8cd9f9a9985fce11bf5fdcd7fc8e571a14214210d242adc8b58cf79f2380551"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d5d62805543625151a511359787622e7f85cee33a95afeda5cae7c7f1e26fce3"
 metafile = true
 
 [[files]]
