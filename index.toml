@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "2da70d6b399aef45e49bb6b8140c5c4a8a3fce14625ff6fa07831b213c87aec2"
+hash = "ff412b6f34c86715af5dff154bfcedb7cb5e7b28e77ab9b21abcd42bfae9ca80"
 metafile = true
 
 [[files]]
