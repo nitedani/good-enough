@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "4cdf2d09fd69e7124a29a7607738bcf84c5f90f94248edc81aa8c67541e70500"
+hash = "9aa57b95d7bfdbd452ffb9d82d3b5b548b96b272e7d78bbf1d52906c41241f12"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "cecdd57c2161c3f09241aa2725ddc19265a7c83aa0192bb53a6144229b729636"
+hash = "c5af2b3c526032b2dc9ce85c2e770fab7efd814af0bf02dc57d58c9baab8f86d"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "97608890817d0e6a374dd81bff3ecb094fb989af5581a29cf7019717a5ed16e2"
+hash = "bd31e91b153b0147f3cc652e200336ec2e96295a58e356954da5be9e7d239eb7"
 metafile = true
 
 [[files]]
