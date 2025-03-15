@@ -163,11 +163,6 @@ hash = "7ea8729598e5b71f5e5dc3e52d09842a9a603d06f4331a954ab56be869f314a5"
 metafile = true
 
 [[files]]
-file = "mods/stutterfix.pw.toml"
-hash = "b21751ae1c8676340c45fa981720398b1306bb3ab4d37c0a3b1badabd181842c"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "898c335a3e7d90d784fa62d2554ac5ed1a10e8101b1c9c6a1575c6cfadbad32c"
 metafile = true
