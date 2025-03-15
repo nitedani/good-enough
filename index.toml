@@ -78,11 +78,6 @@ hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
 metafile = true
 
 [[files]]
-file = "mods/flyboost.pw.toml"
-hash = "3a0370c34cf88834a957007f4e98149d8efc917f91ce1d891e366b257548fd07"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "828383604d144ea2b5e9ea30c96d4fa98909b3afcdfa9265e97b43e0b337e261"
 metafile = true
@@ -100,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "2a8092aaf90874b0708a59f4d72e9bba270d2a799d1622f4c08ce270c21651c1"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "cecdd57c2161c3f09241aa2725ddc19265a7c83aa0192bb53a6144229b729636"
 metafile = true
 
 [[files]]

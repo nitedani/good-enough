@@ -1,12 +1,12 @@
 name = "good-enough"
 author = "nitedani"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d31ee865fc19d12c886f46f3ce6ebcc974be1f150847aa4b0a1996a854b5cf35"
+hash = "0eee7b6fba32aaa39a308171324ea889c9f77ed84086d27a7bcd1bc7f08477b4"
 
 [versions]
 fabric = "0.16.10"
