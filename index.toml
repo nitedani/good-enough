@@ -1,35 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
-hash = "466735e30acdd2d7f5e4c7e71b68a6f9e7f6cfe7755de23905dd147746db4aaa"
-
-[[files]]
-file = "config/ryoamiclights.toml"
-hash = "f42a4d299d805a9a94fb1fe0e1a819fb8d43fe7e032634d76f877dcef54e8511"
-
-[[files]]
-file = "config/stutterfix-config.json"
-hash = "03e5adff2a24acf59b75a9c4d77da3bee44213d44ef970fa96d05dcfc90b09ba"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "2f98d008f5f3ed8b423c6d30db4a9cb25f0a11b6b1f73f921639e37c145f4eb7"
-metafile = true
-
-[[files]]
 file = "mods/camera-utils.pw.toml"
 hash = "9475d0177c8c6e9f0aec7e89ebf05a83dde56571c06e691e8000830e44dfc12b"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
 metafile = true
 
 [[files]]
@@ -68,11 +46,6 @@ hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "874bbf96623cac0bc3f7bedd16e2db5e3cce2d61d20f078ab1c8a0f77b980d69"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
@@ -80,11 +53,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3447c30e10bb52798f1bb68c86a3c4d800139af22056baa8ae406b788e1d8548"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
@@ -103,38 +71,13 @@ hash = "e54f20c97982c2db88560c924610c7ba8d16a2edd9aaf7fd75fdef47ff0c65b5"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "7d28a92f816b7528efec4a2d6e9a434d5841097f7fdb07223cadab0d433311d0"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "bd31e91b153b0147f3cc652e200336ec2e96295a58e356954da5be9e7d239eb7"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "ca512a7a5b1033f5f8823e015a95a6090907dd01738f9ca8fc4ef188d56c88d3"
-metafile = true
-
-[[files]]
 file = "mods/obsidianui.pw.toml"
-hash = "901223deb65850b4a6b69ae06b76ccfb51fd64f158fd18dc0c797f972bea1364"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "448aa826133211f5fc4814b6955a515d8306d13ff03a96372176282a4954802c"
+hash = "23d4e03de46b6b7e5db3d2ab42354ed8167e089836d81c698e0c14c9b2469c44"
 metafile = true
 
 [[files]]
@@ -143,18 +86,8 @@ hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "3f57434db035943d16737be306eaab1be3292b2986c88a5abc4173a32f51053b"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "d5d62805543625151a511359787622e7f85cee33a95afeda5cae7c7f1e26fce3"
 metafile = true
 
 [[files]]
@@ -190,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d30c99840d3ecd0b1ca1a4023e3b956c781ad06a3b44705e5494d04a31c9abf3"
-metafile = true
-
-[[files]]
-file = "mods/yeetus-experimentus.pw.toml"
-hash = "e3d2c86495b2695080068538e80d16049f9ea80bc131a19afd43fcaa9babee84"
 metafile = true
 
 [[files]]

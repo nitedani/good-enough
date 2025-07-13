@@ -1,13 +1,16 @@
 name = "good-enough"
 author = "nitedani"
-version = "1.1.1"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ac50a96ada4c39434c169279fece9c4c43ad8261cac2ebf0fc80ad9ee3dfa87a"
+hash = "819786a7524919a908bd232c4ed27cf28fc29097537c7f03f4d6636a69da4e99"
 
 [versions]
 fabric = "0.16.14"
 minecraft = "1.21.7"
+
+[options]
+acceptable-game-versions = ["1.21.5", "1.21.6"]
